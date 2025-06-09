@@ -105,4 +105,4 @@ SELECT name, open_mode, database_role FROM v$database;
 
 ---
 
-> For further reading: [Oracle Documentation - Data Guard Concepts and Administration]((https://dbaclass.com/article/convert-physical-standby-to-snapshot-standby-database/#google_vignette))
+> For further reading: [Oracle Documentation - Data Guard Concepts and Administration](https://dbaclass.com/article/convert-physical-standby-to-snapshot-standby-database/#google_vignette)
