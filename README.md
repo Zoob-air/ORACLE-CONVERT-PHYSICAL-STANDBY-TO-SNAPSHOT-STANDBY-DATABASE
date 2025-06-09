@@ -3,7 +3,8 @@
 This document provides step-by-step instructions to convert a **physical standby database** to a **snapshot standby database**, and later revert it back to physical standby. This is useful for performing temporary read-write operations on the standby database for testing or other purposes.
 
 ---
-
+![RMAN Logo](https://github.com/Zoob-air/ORACLE-CONVERT-PHYSICAL-STANDBY-TO-SNAPSHOT-STANDBY-DATABASE/blob/main/Convert%20Physical%20Standby%20to%20Snapshot%20Standby%20Database%20Oracle.jpg)
+---
 ## Prerequisites
 
 * Ensure the standby database is in MOUNT state.
